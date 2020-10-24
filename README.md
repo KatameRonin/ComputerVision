@@ -10,3 +10,5 @@ Shall contain projects I will have tried over time:
 4. motion_detector.py: Assuming the initial frame is just the surrouding, when a person enters the scene, the motion is tracked by showing the absolute difference between the intial frame the current frames.
 
 5. horizontal_motion.py: Detects the movement along the horizontal direction from a stationary camera.
+
+5. Image_Segmentation.ipynb: Simple image segmentation creating a single/multiple forgeround and background masks.
