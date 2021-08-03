@@ -7,3 +7,4 @@
 
 3. [Object Detection](Object_Detection)
 
+4. [Image Classification](ImageClassification)
