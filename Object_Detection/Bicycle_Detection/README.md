@@ -1,4 +1,4 @@
-# Bicycle Detection
+# Bicycle Detection using ImageAI library
 
 This project shows how to selectively detect a bicycle, even when many other objects exist. 
 The file [Bicycle Detection](Bicycle_Detection.ipynb) implements selectively Bicycle detection
